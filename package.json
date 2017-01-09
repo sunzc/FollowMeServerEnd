@@ -14,10 +14,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunzc/FollowMeServer.git"
+    "url": "git+https://github.com/sunzc/FollowMeServerEnd.git"
   },
   "bugs": {
-    "url": "https://github.com/sunzc/FollowMeServer/issues"
+    "url": "https://github.com/sunzc/FollowMeServerEnd/issues"
   },
-  "homepage": "https://github.com/sunzc/FollowMeServer#readme"
+  "homepage": "https://github.com/sunzc/FollowMeServerEnd#readme"
 }

@@ -1,0 +1,23 @@
+{
+  "name": "follow_me_server",
+  "version": "1.0.0",
+  "description": "Follow Me App Server End",
+  "main": "hello.js",
+  "scripts": {
+    "test": "testserver"
+  },
+  "author": "Zhichuang Sun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunzc/FollowMeServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sunzc/FollowMeServer/issues"
+  },
+  "homepage": "https://github.com/sunzc/FollowMeServer#readme"
+}
